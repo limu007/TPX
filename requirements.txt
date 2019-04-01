@@ -1,5 +1,2 @@
 numpy
-ipywidgets
 nbinteract
-scipy
-matplotlib
